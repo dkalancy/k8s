@@ -1,0 +1,4 @@
+=== List of kubernetes yaml files ===
+* deployment
+* service
+* job
